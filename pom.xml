@@ -16,7 +16,7 @@
 			<artifactId>selenium-java</artifactId>
 			<version>4.19.1</version>
 		</dependency>
-		
+
 		<!-- https://mvnrepository.com/artifact/org.testng/testng -->
 		<dependency>
 			<groupId>org.testng</groupId>
@@ -38,7 +38,6 @@
 			<artifactId>poi-ooxml</artifactId>
 			<version>5.2.5</version>
 		</dependency>
-
 
 
 	</dependencies>
