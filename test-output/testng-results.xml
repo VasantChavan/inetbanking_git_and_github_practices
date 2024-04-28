@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-21T13:21:56 IST" name="Default suite" finished-at="2024-04-21T13:22:17 IST" duration-ms="20938">
+    <groups>
+    </groups>
+    <test started-at="2024-04-21T13:21:56 IST" name="Default test" finished-at="2024-04-21T13:22:17 IST" duration-ms="20938">
+      <class name="com.inetbanking_testcases.LoginTC">
+        <test-method is-config="true" signature="init()[pri:0, instance:com.inetbanking_testcases.LoginTC@644baf4a]" started-at="2024-04-21T13:21:56 IST" name="init" finished-at="2024-04-21T13:21:56 IST" duration-ms="21" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method is-config="true" signature="initWebObject()[pri:0, instance:com.inetbanking_testcases.LoginTC@644baf4a]" started-at="2024-04-21T13:21:56 IST" name="initWebObject" finished-at="2024-04-21T13:21:56 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initWebObject -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.inetbanking_testcases.LoginTC@644baf4a]" started-at="2024-04-21T13:21:56 IST" name="setUp" finished-at="2024-04-21T13:22:06 IST" duration-ms="9398" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyLoginPageTitle()[pri:1, instance:com.inetbanking_testcases.LoginTC@644baf4a]" started-at="2024-04-21T13:22:06 IST" name="verifyLoginPageTitle" finished-at="2024-04-21T13:22:06 IST" duration-ms="26" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginPageTitle -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.inetbanking_testcases.LoginTC@644baf4a]" started-at="2024-04-21T13:22:06 IST" name="setUp" finished-at="2024-04-21T13:22:14 IST" duration-ms="8756" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyloginfunctionality()[pri:2, instance:com.inetbanking_testcases.LoginTC@644baf4a]" started-at="2024-04-21T13:22:14 IST" name="verifyloginfunctionality" finished-at="2024-04-21T13:22:17 IST" duration-ms="2392" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyloginfunctionality -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.inetbanking_testcases.LoginTC@644baf4a]" started-at="2024-04-21T13:22:17 IST" name="teardown" finished-at="2024-04-21T13:22:17 IST" duration-ms="289" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.inetbanking_testcases.LoginTC -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
