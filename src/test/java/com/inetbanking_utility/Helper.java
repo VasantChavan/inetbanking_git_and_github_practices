@@ -24,7 +24,8 @@ public class Helper {
 	// capture screenshot
 	// generate reports and so on...
 	// by using utility method we can create next level frame
-
+ 
+	// handle multiple alert
 	public static void handleAlert(WebDriver driver) {
 
 		if (isAlertPresent(driver)) {
