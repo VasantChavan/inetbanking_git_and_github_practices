@@ -1,9 +1,8 @@
-package com.Vtech.Pageobjects;
+package com.inetbanking_pageobjects;
 
 import org.openqa.selenium.Alert;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
-
 public class CreateAccountPage {
 
 	
