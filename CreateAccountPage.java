@@ -3,9 +3,8 @@ package com.inetbanking_pageobjects;
 import org.openqa.selenium.Alert;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
-public class CreateAccountPage {
 
-	
+public class CreateAccountPage {
 	WebDriver driver;
 	public CreateAccountPage(WebDriver driver) {
 		driver.get("https://demo.guru99.com/v4/manager/addcustomerpage.php");
@@ -43,7 +42,5 @@ public class CreateAccountPage {
         driver.quit(); 
     } 
 }
-		
-			
 		
 
